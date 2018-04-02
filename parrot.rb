@@ -3,6 +3,6 @@ def parrot
   puts pretty_bird
    "Squawk!"
 end
- parrot
+
 
 # returns the phrase
