@@ -1,8 +1,7 @@
-def parrot
-  pretty_bird = "Squawk!"
-  puts pretty_bird
-   "Squawk!"
+def parrot (sound)
+  puts sound
 end
 
 
 # returns the phrase
+  
