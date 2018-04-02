@@ -1,6 +1,5 @@
 def parrot (sound = "Pretty bird")
   puts "Squawk!"
-  "Squawk!"
 end
 
 
