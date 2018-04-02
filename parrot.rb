@@ -1,7 +1,6 @@
-def parrot (sound = "Squawk!")
-  puts sound
+def parrot (sound = "Pretty bird")
+  puts "Squawk!"
   "Squawk!"
-  phrase = "Pretty bird!"
 end
 
 
